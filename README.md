@@ -1,4 +1,4 @@
-#Backend Technology:    
+# Backend Technology:    
 SpringBoot: Simplify the initial construction and development process of Spring applications  
 SpringCloud: A cloud-native application development tool based on Spring Boot. The technologies used by SpringCloud include (Spring Cloud Gateway, Spring Cloud Task, and Spring Cloud Feign, etc.)  
 SpringBoot+SpringCloudAlibaba(Nacos, Sentinel) + OpenFeign + Gateway  
@@ -21,7 +21,7 @@ Natapp: intranet penetration
 Docker: containerization technology; production environment Redis (operation and maintenance personnel); quick environment Docker run  
 Git: code management tool; Git use, pull code, commit, push, merge, conflict resolution  
 
-#Because we are developing a WeChat mini program project for taxi-hailing, we need to use a lot of cloud services (Tencent Cloud or other clouds) and WeChat mini program plug-ins, which are listed below:
+# Because we are developing a WeChat mini program project for taxi-hailing, we need to use a lot of cloud services (Tencent Cloud or other clouds) and WeChat mini program plug-ins, which are listed below:
 1. Object storage service (COS) Stores private pictures such as driver's ID card and driver's license photos for real-name authentication
 2. Face recognition (AiFace) Identity verification before the driver accepts the order every day, and has static liveness detection function
 3. Personnel library management (face-lib) Cloud storage of driver registration face model, used for identity comparison
@@ -32,7 +32,7 @@ Git: code management tool; Git use, pull code, commit, push, merge, conflict res
 8. Map point selection plug-in Used for map point selection operations on the mini program
 9. Tencent location service Route planning, positioning navigation, mileage and time estimation
 
-#Project module
+# Project module
 
 Final server-side architecture module
 
@@ -104,5 +104,5 @@ daijia-parent: root directory, management submodule:
 
 ​ web-mgr: management-side web system
 
-e.g.
+# e.g.
 ![image](https://github.com/user-attachments/assets/fc482d0b-aad2-4d12-902c-61c5e438f388)
