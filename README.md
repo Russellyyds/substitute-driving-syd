@@ -107,3 +107,7 @@ daijia-parent: root directory, management submodule:
 
 # e.g.
 ![image](https://github.com/user-attachments/assets/fc482d0b-aad2-4d12-902c-61c5e438f388)
+![image](https://github.com/user-attachments/assets/128dff35-f55d-4a3c-931b-48a1516b0d23)
+![image](https://github.com/user-attachments/assets/8dddfe03-677b-481a-8aa3-86dc9333f40a)
+
+
