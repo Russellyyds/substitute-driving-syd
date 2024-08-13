@@ -22,6 +22,7 @@
         <module>web</module>
         <module>server-gateway</module>
         <module>service-client</module>
+        <module>admin-server</module>
     </modules>
 
     <properties>
